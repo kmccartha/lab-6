@@ -270,4 +270,4 @@ In both functions, they don't use the correct variable for the dates as the one 
 ### Confirming the fix
 
 <!-- How did you confirm the problem is gone? -->
-I reloaded the game, and I was able to play the game again without it automatically reloading the game over screen again.
+I reloaded the game, and when the game ended, I was able to see the correct timestamps
